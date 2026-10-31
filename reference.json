@@ -1,0 +1,29 @@
+{
+  "title": "Built for speed. Engineered for intelligence.",
+  "creator": "3D Website Builder",
+  "source": "https://www.facebook.com/reel/1679077129775126",
+  "width": 480,
+  "height": 280,
+  "cols": 8,
+  "frames": 44,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "The reveal"
+    },
+    {
+      "progress": 0.32,
+      "label": "The profile"
+    },
+    {
+      "progress": 0.57,
+      "label": "The turn"
+    },
+    {
+      "progress": 0.82,
+      "label": "The front"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application."
+}
